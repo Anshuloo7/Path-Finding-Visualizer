@@ -13,3 +13,7 @@ This A-Star pathfinding technique is an informed search algorithm, which means i
 2) Select the barriers using the mouse.
 3) Hit Space to start finding the path. 
 4) Hit the key "C" to reset. 
+
+# Demo
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/22723598/197061396-2340066c-e22d-45d1-aed2-af0d1aa7dd62.gif)
